@@ -42,6 +42,7 @@ Agradecimientos a los autores de los assets utilizados:
 Este proyecto es solo para fines educativos. No está permitido su uso comercial.
 
 ## 👩‍🏫 Créditos del curso
+https://cupnooble.itch.io/sprout-lands-asset-pack
 
 Plantilla desarrollada por **Claudia MZ**, docente de la materia **Motores de Videojuegos I** en la carrera de **Ingeniería en Animación Digital**.
 
