@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\GallinaMove.cs" />
     <Compile Include="Assets\scripts\trigoVida.cs" />
+    <Compile Include="Assets\scripts\InventarioUI.cs" />
     <Compile Include="Assets\scripts\Ponedora.cs" />
     <Compile Include="Assets\scripts\jitomateVida.cs" />
     <Compile Include="Assets\Scriptis\MovimientoJugador.cs" />
@@ -79,11 +80,9 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
-    <None Include="Assets\UI\InventarioStyle.uss" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\UI\inventario ui.uxml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
